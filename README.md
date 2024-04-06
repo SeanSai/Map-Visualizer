@@ -1,0 +1,1 @@
+A program that renders a 2D map in order to project it in 3D. You can walk around the map and collide with walls. It simulates being in a building. It would be used for simulating being inside the school per example, in order to help students better find themselves within the school. 
